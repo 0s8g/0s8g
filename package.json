@@ -11,11 +11,10 @@
     "@discordjs/voice": "latest",
     "ws": "latest",
     "debug": "latest",
-    "sodium-native": "latest",
     "tweetnacl": "latest",
     "opusscript": "latest",
     "@discordjs/opus": "latest",
     "ffmpeg-static": "latest",
-    "yt-dlp-exec": "latest"
+    "youtube-dl-exec": "latest"
   }
 }
