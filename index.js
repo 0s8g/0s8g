@@ -29,8 +29,8 @@ try {
 }
 
 //2
-const TOKEN_VC   = process.env.TOKEN_VC   || 'MTU0NDQ4OTEyMzE5OTMyMDE5Mg.GOzZ1q.CkEm3WRwWzlvRcpPAMdjbsbAqk8JX5rOOUK7j4';
-const TOKEN_CTRL = process.env.TOKEN_CTRL || 'MTU0NDQ4OTEyMzE5OTMyMDE5Mg.GOzZ1q.CkEm3WRwWzlvRcpPAMdjbsbAqk8JX5rOOUK7j4';
+const TOKEN_VC   = process.env.TOKEN_VC   || 'MTU0NjI5OTc5OTE5NDU3NDkzNQ.G91gMY._OUw4pEqmfIWf_saz2-V0cIBWKVkzPycxRTCII';
+const TOKEN_CTRL = process.env.TOKEN_CTRL || 'MTU0NjI5OTc5OTE5NDU3NDkzNQ.G91gMY._OUw4pEqmfIWf_saz2-V0cIBWKVkzPycxRTCII';
 const PREFIX     = '.';
 const AUDIO_DIR  = path.join(__dirname, 'audio');
 
