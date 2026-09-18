@@ -1,0 +1,21 @@
+{
+  "name": "discord-vc-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "postinstall": "node install-bins.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "latest",
+    "@discordjs/voice": "latest",
+    "ws": "latest",
+    "debug": "latest",
+    "sodium-native": "latest",
+    "tweetnacl": "latest",
+    "opusscript": "latest",
+    "@discordjs/opus": "latest",
+    "ffmpeg-static": "latest",
+    "yt-dlp-exec": "latest"
+  }
+}
